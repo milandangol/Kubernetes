@@ -15,15 +15,6 @@ You can expect to find the following types of content in this repository:
 - Documentation and guides related to Kubernetes
 - Examples and demos of Kubernetes concepts
 
-## Getting Started
-
-If you're new to Kubernetes or this repository, you can start by exploring the following sections:
-
-- [Examples](/examples): Find practical examples of Kubernetes configurations and use cases.
-- [Guides](/guides): Access step-by-step guides and tutorials on Kubernetes topics.
-- [Scripts](/scripts): Utilize shell scripts for common Kubernetes tasks.
-- [Documentation](/docs): Dive into documentation that explains various Kubernetes concepts.
-
 ## My Blog - hasnode
 
 I also maintain a blog called [hasnode](https://www.hasnode.com), where I share in-depth articles and insights on various DevOps and Kubernetes topics. You can find detailed explanations, tutorials, and best practices related to Kubernetes on my blog.
