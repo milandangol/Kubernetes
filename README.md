@@ -17,7 +17,7 @@ You can expect to find the following types of content in this repository:
 
 ## My Blog - hasnode
 
-I also maintain a blog called [hasnode](https://www.hasnode.com), where I share in-depth articles and insights on various DevOps and Kubernetes topics. You can find detailed explanations, tutorials, and best practices related to Kubernetes on my blog.
+I also maintain a blog called [hasnode](https://milaan.hashnode.dev/), where I share in-depth articles and insights on various DevOps and Kubernetes topics. You can find detailed explanations, tutorials, and best practices related to Kubernetes on my blog.
 
 ## Contributing
 
@@ -29,6 +29,6 @@ This repository is open-source and available under the [MIT License](LICENSE). F
 
 ## Contact
 
-You can reach out to me on GitHub or connect with me via [LinkedIn](https://www.linkedin.com/in/yourname) for any questions or collaborations.
+You can reach out to me on GitHub or connect with me via [LinkedIn](https://www.linkedin.com/in/milan-dangol) for any questions or collaborations.
 
 Thank you for visiting my Kubernetes work repository!
