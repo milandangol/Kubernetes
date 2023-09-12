@@ -45,13 +45,6 @@ Follow these steps to set up RBAC for your application or Kubernetes cluster:
 
 You can also check out my blog for step by step guide on  [hasnode](https://milaan.hashnode.dev/).
 
-## License
-
-This repository is open-source and available under the [MIT License](LICENSE). Feel free to use and modify the content, but remember to respect the license terms.
-
-## Notes
-
-- Ensure that you have the necessary permissions to create and manage RBAC resources in your Kubernetes cluster.
 - Customize the Role, ClusterRole, and RoleBinding configurations to suit your specific access control requirements.
 
 Feel free to reach out if you have any questions or need further assistance with RBAC configuration.
