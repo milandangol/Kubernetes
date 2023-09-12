@@ -44,8 +44,3 @@ Follow these steps to set up RBAC for your application or Kubernetes cluster:
 ## Blog
 
 You can also check out my blog for step by step guide on  [hasnode](https://milaan.hashnode.dev/).
-
-- Customize the Role, ClusterRole, and RoleBinding configurations to suit your specific access control requirements.
-
-Feel free to reach out if you have any questions or need further assistance with RBAC configuration.
-
