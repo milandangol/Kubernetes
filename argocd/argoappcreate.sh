@@ -1,10 +1,8 @@
 #!/bin/bash
 
 # author: Milan Dangol
-# email: milan.dangol@citytech.global
-
-
-# Prompt the user for the Bitbucket folder_name
+# email: milan.dangol57@gmail.com 
+#Prompt the user for the Bitbucket folder_name
 read -p "Enter the root Bitbucket folder name (e.g., <parent dir>): " bitbucket_folder
 
 # Define the temporary directory for cloning repositories
